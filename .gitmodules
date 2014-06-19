@@ -1,0 +1,4 @@
+[submodule "lib"]
+	path = summernote
+	url = git@github.com:mdahiemstra/summernote.git
+	branch = master
